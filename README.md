@@ -1,2 +1,3 @@
-# random-python-projects
-here are some of my projects that I made when I was bored
+# wps-wifi-cracker
+here is a fun program to find wps of wifies around you use it safely.
+
